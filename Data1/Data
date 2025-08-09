@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<store>
+  <product>
+    <name>Smart Watch</name>
+    <price>89.99</price>
+    <image>https://tse1.mm.bing.net/th/id/OIP.Bi6H2bGIVTjoKBmc6_AVFwHaHa?rs=1pid=ImgDetMaino=7rm=3</image>
+    <description>High quality and durable.</description>
+  </product>
+  <product>
+    <name>Wireless Headphones</name>
+    <price>129.50</price>
+    <image>https://static.rapidonline.com/catalogueimages/product/61/20/s61-2045p01wl.jpg</image>
+    <description>Comfortable and powerful.</description>
+  </product>
+  <product>
+    <name>Gaming Mouse</name>
+    <price>45.75</price>
+    <image>https://images-na.ssl-images-amazon.com/images/I/61QXVSF6bLL._AC_SL1500_.jpg</image>
+    <description>Ergonomic and precise.</description>
+  </product>
+  <product>
+    <name>USB-C Hub</name>
+    <price>39.99</price>
+    <image>https://m.media-amazon.com/images/I/61i6Uicea+L._AC_SL1500_.jpg</image>
+    <description>Multi-port fast hub.</description>
+  </product>
+  <product>
+    <name>Laptop Stand</name>
+    <price>54.95</price>
+    <image>https://ishopgh.com/wp-content/uploads/2023/05/eng_pl_Baseus-stand-adjustable-laptop-stand-silver-LUJS000012-93155_16.jpg</image>
+    <description>Adjustable and sturdy.</description>
+  </product>
+  <product>
+    <name>Portable SSD</name>
+    <price>99.99</price>
+    <image>https://cdn.arstechnica.net/wp-content/uploads/2023/01/ssd.jpg</image>
+    <description>Fast and compact storage.</description>
+  </product>
+  <product>
+    <name>4K Monitor</name>
+    <price>249.00</price>
+    <image>https://www.wepc.com/wp-content/uploads/2020/02/DSC02320.jpg</image>
+    <description>Crisp and vibrant display.</description>
+  </product>
+  <product>
+    <name>Webcam HD</name>
+    <price>59.99</price>
+    <image>https://tse3.mm.bing.net/th/id/OIP.8dzk4WhrMwhU95akMNds9QHaEc?rs=1pid=ImgDetMaino=7rm=3</image>
+    <description>Clear video quality.</description>
+  </product>
+  <product>
+    <name>Mechanical Keyboard</name>
+    <price>109.00</price>
+    <image>https://bestkeyboards.co.uk/wp-content/uploads/sites/3/2023/05/Mechanical-Keyboard-.jpg</image>
+    <description>Tactile and responsive keys.</description>
+  </product>
+  <product>
+    <name>Wireless Charger</name>
+    <price>29.95</price>
+    <image>https://tse1.mm.bing.net/th/id/OIP.vrkeD0y15BUQ-HDt0xe-OAHaHa?rs=1pid=ImgDetMaino=7rm=3</image>
+    <description>Fast wireless charging.</description>
+  </product>
+  <product>
+    <name>Fitness Tracker</name>
+    <price>79.99</price>
+    <image>https://cdn.lifehack.org/wp-content/uploads/2020/10/fitness-tracker-watch.jpeg</image>
+    <description>Track your daily activity.</description>
+  </product>
+  <product>
+    <name>Mini Projector</name>
+    <price>139.00</price>
+    <image>https://m.media-amazon.com/images/I/61kRNDZh8UL._AC_.jpg</image>
+    <description>Portable and bright.</description>
+  </product>
+  <product>
+    <name>Smart Lamp</name>
+    <price>44.50</price>
+    <image>https://www.androidauthority.com/wp-content/uploads/2022/04/The-Lepro-Smart-Table-Lamp-2021-1536w-864h.jpg</image>
+    <description>Voice controlled lighting.</description>
+  </product>
+  <product>
+    <name>Graphic Tablet</name>
+    <price>89.00</price>
+    <image>https://www.robot-advance.com/userfiles/www.robot-advance.com/images/graphic-tablet-with-screen.jpg</image>
+    <description>Precise pen input.</description>
+  </product>
+  <product>
+    <name>Bluetooth Speaker</name>
+    <price>69.95</price>
+    <image>https://m.media-amazon.com/images/I/81KehT0f84L.jpg</image>
+    <description>Loud and clear audio.</description>
+  </product>
+</store>
